@@ -43,3 +43,6 @@ A Flask-based GitHub webhook receiver that captures Push, Pull Request and Merge
 ## Application Flow
 
 action-repo → GitHub Webhook → Flask /webhook endpoint → MongoDB → UI (polls every 15s)
+
+## UI Screen-Shot
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/2d09f13a-5cd5-4901-bc5a-0ce039f891eb" />
